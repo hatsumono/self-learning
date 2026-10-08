@@ -6,3 +6,6 @@ Lesson 01
 	- `<dt>` for list item title
 	- `<dd>` for list item description
 List using `<dl>` will help people with special needs to navigate the list elements easily with keyboard.
+
+Lesson 02
+	In lesson 02 I have learnt how quote word with `<q></q>` and `<blockquote></blockquote>` elements. These two elements can have cite="url" element to cite the resource. There is also an independent `<cite></cite>` to isolate a citation.
