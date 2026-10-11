@@ -24,4 +24,5 @@ In this Readme.md file I will document the lessons I am learning on various Devo
            -m "The cache was not invalidating properly during heavy load spikes." \
            --trailer "Fixes: #892"</code>
 </p>
-
+<h>Lesson 04</h1>
+<p> Pull/Merge request is asking for permissiong before merge branch/commits to another branch</p>
