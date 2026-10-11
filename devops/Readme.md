@@ -19,5 +19,9 @@ In this Readme.md file I will document the lessons I am learning on various Devo
         <li> Push to remote by <code> git push origin main </code> </li>
     </ol>
 </p>
-<p> I have also learnt about Issue. Which are plan/tasks for project execution. Plan can have labels and assignees</p>
+<p> I have also learnt about Issue. Which are plan/tasks for project execution. Plan can have labels and assignees. You can link commit with issue by using:
+<code>git commit -m "fix(api): correct inventory count" \
+           -m "The cache was not invalidating properly during heavy load spikes." \
+</code>           --trailer "Fixes: #892"
+</p>
 
