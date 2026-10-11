@@ -24,4 +24,12 @@ In this Readme.md file I will document the lessons I am learning on various Devo
            -m "The cache was not invalidating properly during heavy load spikes." \
            --trailer "Fixes: #892"</code>
 </p>
-
+<h1>Lesson 03</h1>
+<p> Today I have also learnt about git branch, using the following commands:
+    <ol>
+        <li> To create a branch: <code> git branch <branch-name></code> </li>
+        <li> To be in a branch: <code> git checkout <branch-name</code></li>
+ <li> To create and checkout at same time: <code> git -b <branch></code></li>
+        <li> To delete a branch: <code> git branch -d <branch-name></code></li>
+    </ol>
+</p>
